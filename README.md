@@ -2,7 +2,7 @@
 ![avatar](./Original%20instance.png)
 ![avatar](./Revision%20instance.png)
 
-## Endlish page
+## English page
 
 [致中国用户：中文页面在英文页面的下方，不需要费老大劲翻译！]
 
