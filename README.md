@@ -1,4 +1,6 @@
 # Bongo Cat for web(邦戈猫web版)
+![avatar](./Original%20instance.png)
+![avatar](./Revision%20instance.png)
 
 ## Endlish page
 
